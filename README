@@ -1,0 +1,24 @@
+String::UTF8::XS(3)   User Contributed Perl Documentation  String::UTF8::XS(3)
+
+
+
+NNAAMMEE
+       String::UTF8::XS − XS implementation of String::UTF8
+
+DDEESSCCRRIIPPTTIIOONN
+       The main String::UTF8 package will use this package automatically if it
+       can find it. Do not use this package directly, use String::UTF8
+       instead.
+
+AAUUTTHHOORR
+       Christian Hansen, <chansen@cpan.org>
+
+CCOOPPYYRRIIGGHHTT AANNDD LLIICCEENNSSEE
+       Copyright (C) 2009 by Christian Hansen
+
+       This library is free software; you can redistribute it and/or modify it
+       under the same terms as Perl itself.
+
+
+
+perl v5.8.9                       2009‐11‐24               String::UTF8::XS(3)
